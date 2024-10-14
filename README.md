@@ -6,7 +6,7 @@ A Dynamic Landslide Hazard Assessment has been conducted using a Generalized Add
 
 The code was jointly developed by Dewan Haque and Ritu Roy, with collaboration from many others. The GAM code is an update from the study published by Fang et al. (2023) (https://doi.org/10.1016/j.jag.2023.103631), adapted to apply it across settings.
 
-The required data, produced from intensive fieldwork and satellite image analysis, is uploaded here to reproduce the code. Additionally, an R Markdown file is provided.
+The required data, generated from intensive fieldwork and satellite image analysis, is uploaded here to reproduce the code. Additionally, an R Markdown file is provided.
 To produce maps from the machine learning models (MLs), the inputs can be accessed on Zenodo.
 
 | Step to run   | Code          | Input                      |
