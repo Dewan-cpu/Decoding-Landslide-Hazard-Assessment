@@ -1,5 +1,6 @@
 # Decoding-Landslide-Hazard-Assessment
 Last modified: October 2024.
+
 The codes have been implemented using R 4.4.0.
 
 A Dynamic Landslide Hazard Assessment has been conducted using a Generalized Additive Model (GAM). The results of the GAM are also compared with standard machine learning algorithms (MLs): NNET, RF, LDA, xgBoost, and SVM.
