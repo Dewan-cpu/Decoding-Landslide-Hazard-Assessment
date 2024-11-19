@@ -1,13 +1,14 @@
 # Decoding-Landslide-Hazard-Assessment
 Last modified: October 2024.
 
-The codes have been implemented using R 4.4.0.
+The codes have been implemented using R 4.4.0. Landslide priority zonation using Monte Carlo simulation is implemented in Google Colab.
 
 A Dynamic Landslide Hazard Assessment has been conducted using a Generalized Additive Model (GAM). The results of the GAM are also compared with standard machine learning algorithms (MLs): NNET, RF, LDA, xgBoost, and SVM.
 
 The code was jointly developed by Dewan Haque and Ritu Roy, with collaboration from many others. The GAM code is an update from the study published by Fang et al. (2023) (https://doi.org/10.1016/j.jag.2023.103631), adapted to apply it across settings. The ML code has been developed from scratch.
 
 The required data from intensive fieldwork and satellite image analysis is uploaded here to reproduce the results. Additionally, R Markdown files are provided.
+
 The inputs can be accessed on Zenodo (DOI:) to generate maps from the machine learning models (MLs).
 
 I:
