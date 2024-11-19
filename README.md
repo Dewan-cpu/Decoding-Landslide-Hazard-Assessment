@@ -25,5 +25,11 @@ II:
 | R Markdown    | GAM_LSA       | Geopackage Files           |
 | R Markdown    | ML_LSA        | Theend17082023csv.csv      |
 
+III: 
+
+| Type          | Code                  | Input              |
+| ------------- |:---------------------:| ------------------:|
+| Python Script | Landslide_MonteCarlo  | .ipynb file        |
+
 The code is distributed "as is" WITH NO WARRANTY whatsoever!
 
