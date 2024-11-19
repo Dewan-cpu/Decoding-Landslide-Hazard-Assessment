@@ -1,5 +1,5 @@
 # Decoding-Landslide-Hazard-Assessment
-Last modified: October 2024.
+Last modified: November 2024.
 
 The codes have been implemented using R 4.4.0. Landslide priority zonation using Monte Carlo simulation is implemented in Google Colab.
 
