@@ -9,7 +9,7 @@ The code is jointly developed by Dewan Haque and Ritu Roy, with collaboration fr
 
 The required data from intensive fieldwork and satellite image analysis is uploaded here to reproduce the results. Additionally, R Markdown files are provided.
 
-The inputs can be accessed here as well as on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14184223.svg)](https://doi.org/10.5281/zenodo.14184223)
+The inputs can be accessed here, as well as on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14184223.svg)](https://doi.org/10.5281/zenodo.14184223)
 
 I:
 
