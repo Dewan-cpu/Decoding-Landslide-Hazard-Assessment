@@ -11,6 +11,8 @@ The required data from intensive fieldwork and satellite image analysis is uploa
 
 The inputs can be accessed here, as well as on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14184223.svg)](https://doi.org/10.5281/zenodo.14184223)
 
+Recommended citation: 
+Haque, DME et al. (2024). Data and code for Decoding dynamic landslide hazard processes for a massive refugee camp (KTP) in Bangladesh (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14184223
 I:
 
 | Type          | Code          | Input                      |
@@ -30,7 +32,7 @@ III:
 
 | Type          | Code                      | Input          |
 | ------------- |:-------------------------:| --------------:|
-| Python Script | Landslide_MonteCarlo.ipynb| .xls file      |
+| Python Script | Landslide_MonteCarlo      | .ipynb         |
 
 The code is distributed "as is" WITH NO WARRANTY whatsoever!
 
