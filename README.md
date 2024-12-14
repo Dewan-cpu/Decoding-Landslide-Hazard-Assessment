@@ -13,6 +13,7 @@ The inputs can be accessed here, as well as on Zenodo [![DOI](https://zenodo.org
 
 Recommended citation: 
 Haque, DME et al. (2024). Data and code for Decoding dynamic landslide hazard processes for a massive refugee camp (KTP) in Bangladesh (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14184223
+
 I:
 
 | Type          | Code          | Input                      |
