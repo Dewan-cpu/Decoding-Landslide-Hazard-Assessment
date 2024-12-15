@@ -31,9 +31,9 @@ II:
 
 III: 
 
-| Type          | Code                      | Input          |
-| ------------- |:-------------------------:| --------------:|
-| Python Script | Landslide_MonteCarlo      | .ipynb         |
+| Type          | Code                            | Input          |
+| ------------- |:-------------------------------:| --------------:|
+| Python Script | Landslide_MonteCarlo.ipynb      | .xls file      |
 
 The code is distributed "as is" WITH NO WARRANTY whatsoever!
 
